@@ -1,0 +1,39 @@
+Is Bitcoin a Decentralized Currency (WP)
+-explanation of also
+
+Agreement Among Unacquainted Byzantine Generals (WP)
+-short (maybe helpful for BFT)
+
+Misbehavior in Bitcoin: A Study of Double-Spending and Accountability 
+-double spending and privacy 
+
+Bitcoin Meets Strong Consistency 
+-proposal for node verification (peer census) (Discoin)
+
+An Efficient Distributed Currency (WP)
+Decentralised Currencies Are Probably Impossible (WP)
+-Short musings on bitcoin issues
+
+Another Advantage of Free Choice
+-Byzantine algo
+
+On Scaling Decentralized Blockchains (WP)
+
+Majority is not Enough--READ
+
+Bitcoin:Under the Hood
+-info??
+
+
+A History of Bitcoin
+-background
+
+The Quest for Scalable Blockchain Fabric
+-maybe good discussion on BFT vs Proof of work
+
+
+BFT algos:
+ An asynchronous-resilient consensus protocol
+ In Search of an Understandable Consensus Algorithm
+ Practical Byzantine Fault Tolerance:
+ CheapBFT: Resource-efficient Byzantine Fault Tolerance
